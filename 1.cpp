@@ -18,9 +18,6 @@ void init5();
 
 
 
-
-
-
 // DDAÀ„∑®ª≠œﬂ
 void DDALine(int x0, int y0, int x1, int y1) {
     int ddx = x1 - x0, ddy = y1 - y0;

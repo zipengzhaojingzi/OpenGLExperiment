@@ -41,7 +41,7 @@ void myDisplay2() {
     glFlush();
 }
 
-void transForm() {
+void transForm() {      //used by experiment5
     //glLoadIdentity();
     glScalef(0.25f, 0.25f, 1.0f);        // 缩放到原来的1/4大小
     //glTranslatef(1.0, 1.0, 0.0);
